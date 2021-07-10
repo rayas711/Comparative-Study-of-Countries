@@ -43,7 +43,7 @@ Dashboard Description
 
 5- Create a trend line to show the selected category values.
 
-       2- The line to show with a arrow/triangle at the last mark
+       1- The line to show with a arrow/triangle at the last mark
 
 6- Dashboard filter for income group to be applied for all charts with the filter action enabled in the map as well
 
