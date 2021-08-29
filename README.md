@@ -48,3 +48,10 @@ Dashboard Description
 6- Dashboard filter for income group to be applied for all charts with the filter action enabled in the map as well
 
 7- Formatting to be done appropriately
+
+
+
+See my page:
+
+https://public.tableau.com/app/profile/raya.alshammri/viz/ComparativeStudyofCountries-ProjectSubmission/ComparativeStudyofCountries
+
